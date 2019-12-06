@@ -1,4 +1,4 @@
-module.exports = {
-  compress: true,
-  target: 'serverless'
-}
+// module.exports = {
+//   compress: true,
+//   // target: 'serverless'
+// }
